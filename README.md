@@ -2,4 +2,4 @@
 ## Introduction
 single-cell rare specific gene identification via accurate heterograph and gene enrichment score.
 
-(https://github.com/xszhu-lab/scRICH/scRICH_overview.png)
+![alt text](https://github.com/xuyp-csu/scRICH/blob/main/scRICH_overview.png)
